@@ -51,3 +51,7 @@ The script uses the following status indicators:
 * The temperature information requires `lm-sensors` to be installed and configured.
 * The network status checks for the existance of network interfaces, not internet connectivity.
 * This script is intended for informational purposes and basic hardware status checks. For thorough hardware testing, consider using specialized diagnostic tools.
+
+
+
+i don't know if the html tester works so keep that in mind
